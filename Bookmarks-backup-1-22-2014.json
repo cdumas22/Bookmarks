@@ -1,0 +1,1329 @@
+[
+  {
+    "_id": "528236fa76d6d4d402000002",
+    "title": "Amazon",
+    "description": "",
+    "url": "http://www.amazon.com/",
+    "tags": [
+      "shopping"
+    ],
+    "lock": false,
+    "favicon": "http://www.amazon.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528a2a7044797dd009000002",
+    "title": "ISD New Store",
+    "description": "",
+    "url": "https://engage.wal-mart.com/sites/ISDNewStore/default.aspx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://engage.wal-mart.com/_layouts/images/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52d5b6587f7e036c09000003",
+    "title": "NWADNUG: Home",
+    "description": ".Net group in the area",
+    "url": "http://nwadnug.org/",
+    "tags": [
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828f49e6f35e9015000006",
+    "title": "OLT Tax Services",
+    "description": "",
+    "url": "http://olt.com/main/home/default.asp?affiliate=",
+    "tags": [
+      "Banking"
+    ],
+    "lock": false,
+    "favicon": "http://www.olt.com/main/home/images/olt.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52d558977f7e036c09000001",
+    "title": "Project Euler",
+    "description": "Programming Problems",
+    "url": "http://projecteuler.net/problems",
+    "tags": [
+      "learning",
+      "javascript",
+      "excel"
+    ],
+    "lock": false,
+    "favicon": "http://projecteuler.net/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823c0876d6d4d402000007",
+    "title": "TodoMVC",
+    "description": "examples of many javascript frameworks and how to create a todo app",
+    "url": "http://todomvc.com/",
+    "tags": [
+      "learning",
+      "javascript",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "http://todomvc.com/site-assets/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d29f753a26d380d00000b",
+    "title": "HTML5 Techniques for Optimizing Mobile Performance",
+    "description": "",
+    "url": "http://www.html5rocks.com/en/mobile/optimization-and-performance/",
+    "tags": [
+      "html5",
+      "javascript",
+      "learning"
+    ],
+    "lock": false,
+    "favicon": "http://1-ps.googleusercontent.com/x/s.html5rocks-hrd.appspot.com/www.html5rocks.com/xfavicon.ico.pagespeed.ic.vF173WQIXP.webp",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52853f65e6f35e9015000014",
+    "title": "Job Description Search",
+    "description": "",
+    "url": "http://wireportal.wal-mart.com/wps/myportal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjd78QRzeLAN8gdzMTAyOnYF_L0DALYwMLQ6B8JLK8i4spUN45ONg_2MXYwMCAgG4_j_zcVP2C3IhyAMeYwVI!/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfMkdOVEFGOFBNUkc2NDAyQlNNOVVWODMwODE!/?WCM_GLOBAL_CONTEXT=http://wirewcm.wal-mart.com/wps/wcm/myconnect/Wire_US_Active/Portal_Content/Knowledge_Center/People_Support/Training_and_Education/Position_Specific_Training/Job_Descriptions_and_Training_Plans/en_us_09010aff80d66ceb_a_job_descriptions_and_training_plans",
+    "tags": [
+      "work",
+      "resources",
+      "wire"
+    ],
+    "lock": false,
+    "favicon": "http://localhost:3001/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a8e6475d8e788018000002",
+    "title": "Presenter Media - PowerPoint Templates",
+    "description": "use login from lee moore",
+    "url": "http://www.presentermedia.com/",
+    "tags": [
+      "work",
+      "tool",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "http://www.presentermedia.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52b4a52d847490c003000001",
+    "title": "Performance Evaluations",
+    "description": "Evaluation tool used at walmart",
+    "url": "http://wmlink/ptmt",
+    "tags": [
+      "tool",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://performancemanager.successfactors.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52deb2882ac3c30c11000002",
+    "title": "ePolicy Orchestrator 4.6.6 (Build: 176)",
+    "description": "EPO",
+    "url": "https://epo46.homeoffice.wal-mart.com:51299/",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://epo46.homeoffice.wal-mart.com:51299/EPOCore/images/mcafee-16-32.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52def3462ac3c30c11000005",
+    "title": "Walmart.com: Save money. Live better.",
+    "description": "",
+    "url": "http://www.walmart.com/",
+    "tags": [
+      "work",
+      "shopping"
+    ],
+    "lock": false,
+    "favicon": "http://www.walmart.com/favicon.ico",
+    "created": "Tue Jan 21 2014 16:23:02 GMT-0600 (Central Standard Time)",
+    "count": 0
+  },
+  {
+    "_id": "52def3682ac3c30c11000006",
+    "title": "SamsClub.com - Sam’s Club",
+    "description": "",
+    "url": "http://www.samsclub.com/sams/homepage.jsp",
+    "tags": [
+      "work",
+      "shopping"
+    ],
+    "lock": false,
+    "favicon": "http://www.samsclub.com/favicon.ico",
+    "created": "Tue Jan 21 2014 16:23:36 GMT-0600 (Central Standard Time)",
+    "count": 0
+  },
+  {
+    "_id": "52def3902ac3c30c11000007",
+    "title": "CSS · Bootstrap",
+    "description": "twitter",
+    "url": "http://getbootstrap.com/css/#buttons",
+    "tags": [
+      "css",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "http://getbootstrap.com/docs-assets/ico/favicon.png",
+    "created": "Tue Jan 21 2014 16:24:16 GMT-0600 (Central Standard Time)",
+    "count": 0
+  },
+  {
+    "_id": "52def4182ac3c30c11000009",
+    "title": "Apple",
+    "description": "",
+    "url": "http://store.apple.com/us",
+    "tags": [
+      "shopping"
+    ],
+    "lock": false,
+    "favicon": "http://store.apple.com/favicon.ico",
+    "created": "Tue Jan 21 2014 16:26:32 GMT-0600 (Central Standard Time)",
+    "count": 0
+  },
+  {
+    "_id": "527d28ea53a26d380d000008",
+    "title": "AddyOsmani",
+    "description": "",
+    "url": "http://addyosmani.com/blog/",
+    "tags": [
+      "javascript",
+      "blogs"
+    ],
+    "lock": false,
+    "favicon": "http://addyosmani.com/512x512.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "5283a23ce6f35e901500000e",
+    "title": "Ajax AutoComplete jQuery",
+    "url": "http://www.devbridge.com/projects/autocomplete/jquery/",
+    "tags": [
+      "javascript",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "http://www.devbridge.com/favicon.ico",
+    "description": "Creates an autocomplete that works with a delimiter on textboxes. Used in this app for tags",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52d5b6b57f7e036c09000004",
+    "title": "All Things .Net",
+    "description": ".Net Connect Site",
+    "url": "https://share.wal-mart.com/sites/dotnet/default.aspx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a8b5d75d8e788018000001",
+    "title": "Apache Archiva",
+    "description": "Walmart code libraries archive",
+    "url": "http://archiva.homeoffice.wal-mart.com/archiva/browse;jsessionid=hl0o655rrjig",
+    "tags": [
+      "work",
+      "resources",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "http://archiva.homeoffice.wal-mart.com/archiva/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d238a53a26d380d000004",
+    "title": "Avaya Phone System",
+    "description": "portal for the system",
+    "url": "https://avayaiqe1.ivr.wal-mart.com:18443/ApcUI/ApcUI.html",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://avayaiqe1.ivr.wal-mart.com:18443/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d27e353a26d380d000006",
+    "title": "backbone.js",
+    "description": "line by line documentation",
+    "url": "http://documentcloud.github.io/backbone/docs/backbone.html",
+    "tags": [
+      "javascript",
+      "resources",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828fede6f35e9015000009",
+    "title": "Bank of America",
+    "description": "Checking and Savings account",
+    "url": "https://www.bankofamerica.com/",
+    "tags": [
+      "Banking"
+    ],
+    "lock": false,
+    "favicon": "https://www.bankofamerica.com/pa/global-assets/1.0/graphic/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528a356344797dd009000004",
+    "title": "Cameron's - Blog",
+    "description": "A place for me to put information and directions as I learn how to do things.",
+    "url": "https://connect.wal-mart.com/personal/cdumas1/Blog/default.aspx",
+    "tags": [
+      "work",
+      "resources",
+      "connect",
+      "blogs"
+    ],
+    "lock": false,
+    "favicon": "https://connect.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 10,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823b9976d6d4d402000005",
+    "title": "Castlight",
+    "description": "",
+    "url": "https://us.castlighthealth.com/login",
+    "tags": [
+      "insurance",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://us.castlighthealth.com/favicon.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529c944a8fe515f81c000006",
+    "title": "Connect Help",
+    "description": "",
+    "url": "https://share.wal-mart.com/sites/Help/SitePages/Request%20Form.aspx",
+    "tags": [
+      "connect",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528cc0f7e8f708f814000001",
+    "title": "Corporate Ordering",
+    "description": "Business Cards, Phones, Computers, etc ordering",
+    "url": "https://people.wal-mart.com/CorpOrder/Login",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52855166e6f35e9015000016",
+    "title": "CPearson Excel Tutorials",
+    "description": "Tons of great excel vba tutorials and examples (blocked)",
+    "url": "http://www.cpearson.com/excel/topic.aspx",
+    "tags": [
+      "excel",
+      "learning",
+      "tutorial"
+    ],
+    "lock": false,
+    "favicon": "http://www.cpearson.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0cb8c91ce1102f000004",
+    "title": "CSS Gradients",
+    "description": "",
+    "url": "http://www.colorzilla.com/gradient-editor/",
+    "tags": [
+      "tool",
+      "css"
+    ],
+    "lock": false,
+    "favicon": "http://www.colorzilla.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52d44b020f0aa3dc16000001",
+    "title": "Dentist | Carmical Gubler, DDS",
+    "description": "dentist website",
+    "url": "http://www.carmicaldds.com/",
+    "tags": [
+      "insurance"
+    ],
+    "lock": false,
+    "favicon": "http://www.carmicaldds.com/assets/images/icons/favicon.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52869550e6f35e9015000017",
+    "title": "Enterprise Download Page",
+    "description": "download walmart applications and software",
+    "url": "http://honts7010/EDLP/",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528538bbe6f35e9015000013",
+    "title": "Events In Excel VBA",
+    "description": "",
+    "url": "http://www.cpearson.com/excel/Events.aspx",
+    "tags": [
+      "excel",
+      "learning"
+    ],
+    "lock": false,
+    "favicon": "http://www.cpearson.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d38cd53a26d380d00000c",
+    "title": "Excel Automation",
+    "description": "",
+    "url": "http://www.rondebruin.nl/index.htm",
+    "tags": [
+      "learning",
+      "resources",
+      "work",
+      "excel"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52c6da753d96a68422000001",
+    "title": "Excel 2013, 2010 & 2007 FREE tutorials",
+    "description": "great getting started video tutorials",
+    "url": "http://www.excelcentral.com/excel2010/expert/tutorials/default.aspx",
+    "tags": [
+      "excel",
+      "learning",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "http://www.excelcentral.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52def3ff2ac3c30c11000008",
+    "title": "Excel Tutorials",
+    "description": "",
+    "url": "http://www.rondebruin.nl/win/section9.htm",
+    "tags": [
+      "excel",
+      "resources"
+    ],
+    "lock": false,
+    "created": "Tue Jan 21 2014 16:26:07 GMT-0600 (Central Standard Time)",
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0
+  },
+  {
+    "_id": "52828f1ae6f35e9015000004",
+    "title": "FedLoans",
+    "description": "Student Loans",
+    "url": "https://accountaccess.myfedloan.org/accountAccess/index.cfm",
+    "tags": [
+      "Banking"
+    ],
+    "lock": false,
+    "favicon": "https://accountaccess.myfedloan.org/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "5284ea3ae6f35e9015000011",
+    "title": "GLMS - Learner Home Page",
+    "description": "",
+    "url": "http://glms.wal-mart.com/glms/app/management/LMS_LearnerHome.aspx?FromLogin=1",
+    "tags": [
+      "work",
+      "learning",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823b8776d6d4d402000004",
+    "title": "Gmail",
+    "description": "",
+    "url": "https://mail.google.com/mail/u/0/?shva=1#inbox",
+    "tags": [
+      "email"
+    ],
+    "lock": false,
+    "favicon": "https://mail.google.com/mail/u/0/images/2/unreadcountfavicon/1.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823b6476d6d4d402000003",
+    "title": "iCloud",
+    "description": "",
+    "url": "https://www.icloud.com/",
+    "tags": [
+      "email",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://www.icloud.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52c6e0a03d96a68422000003",
+    "title": "Individual Contributor",
+    "description": "evaluations guidelines",
+    "url": "http://wireportal.wal-mart.com/wps/screens/html/showPDF.jsp?WIRE_SC=http://mywirecontent.wal-mart.com/en_US/us_wmops/US/WalMart/Ops_Playbooks/2010/career_path/competencies_ic_perf.pdf",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0effc91ce1102f000008",
+    "title": "ISD",
+    "description": "",
+    "url": "https://share.wal-mart.com/Sites/StorePlanning/TTipsmanual/_layouts/people.aspx?MembershipGroupId=1769",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d21b153a26d380d000003",
+    "title": "ISD Self Help",
+    "description": "",
+    "url": "https://share.wal-mart.com/sites/self-help/selfhelplib/index.html",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/sites/self-help/selfhelplib/resources/ico/favicon.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528b9a5a56f43c5406000002",
+    "title": "ISD ToastMasters",
+    "description": "Learn to speak effectively",
+    "url": "https://share.wal-mart.com/sites/isdtm/SitePages/Home.aspx",
+    "tags": [
+      "work",
+      "Resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d11c8c91ce1102f00000c",
+    "title": "IT Rotational Program",
+    "description": "",
+    "url": "https://engage.wal-mart.com/Sites/ITRP/default.aspx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://engage.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d298653a26d380d000009",
+    "title": "JavaScript Design Patterns",
+    "description": "",
+    "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+    "tags": [
+      "javascript",
+      "book",
+      "learning"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0c8cc91ce1102f000003",
+    "title": "JSFiddle",
+    "description": "",
+    "url": "http://jsfiddle.net/mxgAu/",
+    "tags": [
+      "tool",
+      "javascript"
+    ],
+    "lock": false,
+    "favicon": "http://jsfiddle.net/favicon.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828eb0e6f35e9015000001",
+    "title": "Mint",
+    "description": "Banking ",
+    "url": "https://wwws.mint.com/login.event",
+    "tags": [
+      "banking"
+    ],
+    "lock": false,
+    "favicon": "https://wwws.mint.com/sc/ph4918.7/images/icons/mint.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d29ce53a26d380d00000a",
+    "title": "Modernizr",
+    "description": "",
+    "url": "http://modernizr.com/docs/",
+    "tags": [
+      "javascript",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "http://modernizr.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0cddc91ce1102f000005",
+    "title": "OS X command line",
+    "description": "",
+    "url": "http://ss64.com/osx/",
+    "tags": [
+      "resources",
+      "os"
+    ],
+    "lock": false,
+    "favicon": "http://ss64.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828f77e6f35e9015000007",
+    "title": "Page Plus Cellular",
+    "description": "Cell Phone Site",
+    "url": "https://www.pagepluscellular.com/",
+    "tags": [
+      "banking",
+      "subscription"
+    ],
+    "lock": false,
+    "favicon": "https://www.pagepluscellular.com/images/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52c1abb6847490c003000002",
+    "title": "Password Manager",
+    "description": "Norton Symantec Vault ",
+    "url": "https://identitysafe.norton.com/home",
+    "tags": [
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://identitysafe.norton.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528a665744797dd009000005",
+    "title": "PC/Mac Software Request",
+    "description": "Walmart advanced software request form, downloads, edlp",
+    "url": "http://pcr.wal-mart.com/PCRequest/HomeServlet",
+    "tags": [
+      "tool",
+      "work",
+      "wire"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0c22c91ce1102f000002",
+    "title": "RegExr",
+    "description": "",
+    "url": "http://gskinner.com/RegExr/",
+    "tags": [
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "http://gskinner.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d11a6c91ce1102f00000b",
+    "title": "Remedy 7",
+    "description": "Tickets, service requests...",
+    "url": "https://bsm.wal-mart.com/arsys/forms/bsmapps/AR+System+Customizable+Home+Page/Default+Administrator+View/?cacheid=b41695ea",
+    "tags": [
+      "tool",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://bsm.wal-mart.com/arsys/resources/images/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828fcfe6f35e9015000008",
+    "title": "Sam's Club Credit",
+    "description": "Credit Card and sams membership",
+    "url": "http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=creditMarketing",
+    "tags": [
+      "Banking"
+    ],
+    "lock": false,
+    "favicon": "http://www.samsclub.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a877376bdadc700e000002",
+    "title": "Service Portal for Good",
+    "description": "Email ipad/iphone/android for walmart",
+    "url": "https://good.wal-mart.com:8444/selfserviceportal/portalservlet",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://good.wal-mart.com:8444/selfserviceportal/img/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a0e6986ea29d3415000005",
+    "title": "Sundown - Walmart Questions",
+    "description": "Forum for asking walmart question",
+    "url": "https://sundown.wal-mart.com/questions/",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://sundown.wal-mart.com/upfiles/favicon.ico?v=2",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52cef49142d048181b000001",
+    "title": "TeamForge : Welcome",
+    "description": "source control svn git",
+    "url": "https://teamforge.wal-mart.com/sf/sfmain/do/home",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://teamforge.wal-mart.com/sf-images/icons/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527bfe5ff62d95002d000005",
+    "title": "The Church of Jesus Christ of Latter-day Saints",
+    "description": "",
+    "url": "http://www.lds.org/?lang=eng",
+    "tags": [
+      "religion"
+    ],
+    "lock": false,
+    "favicon": "http://edge.ldscdn.org/images/logos/favicon-lds-1.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0f3dc91ce1102f000009",
+    "title": "Walmart Brand Center",
+    "description": "",
+    "url": "http://www.walmartbrandcenter.com/",
+    "tags": [
+      "resources",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "http://www.walmartbrandcenter.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52cacbbbd94103840e000001",
+    "title": "W2 Online",
+    "description": "w-2 online for walmart\nCompany Code 10108: pin=gross from last paycheck (no decimal eg:202959)",
+    "url": "https://secure.w2.talx.com/postauthenticated/employeemainmenu.ascx",
+    "tags": [
+      "work",
+      "tool",
+      "banking"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a9e33c5d8e788018000003",
+    "title": "Walmart Week Calendars",
+    "description": "",
+    "url": "https://share.wal-mart.com/sites/WROC-new/Shared%20Documents/Forms/AllItems.aspx",
+    "tags": [
+      "connect",
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528bc75056f43c5406000005",
+    "title": "walmartlabs (Walmart Labs) · GitHub",
+    "description": "thorax, lumbar, etc",
+    "url": "https://github.com/walmartlabs",
+    "tags": [
+      "javascript",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://github.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823bce76d6d4d402000006",
+    "title": "WalmartOne",
+    "description": "",
+    "url": "https://us.walmartone.com/en/walmart/home/",
+    "tags": [
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://us.walmartone.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828ecfe6f35e9015000002",
+    "title": "Wells Fargo",
+    "description": "HSA Account Krystal",
+    "url": "https://www.wellsfargo.com/",
+    "tags": [
+      "Banking"
+    ],
+    "lock": false,
+    "favicon": "https://www.wellsfargo.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828f02e6f35e9015000003",
+    "title": "Wells Fargo Advantage Funds",
+    "description": "Investment Account - Roth IRA - Mutual Fund Stocks",
+    "url": "http://www.wellsfargoadvantagefunds.com/wfweb/wf/home/index.jsp",
+    "tags": [
+      "banking"
+    ],
+    "lock": false,
+    "favicon": "http://www.wellsfargoadvantagefunds.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823cf476d6d4d402000009",
+    "title": "Google Voice",
+    "description": "online phone for texting and calls",
+    "url": "https://www.google.com/voice?pli=1#inbox",
+    "tags": [
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://www.google.com/voice/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a874966bdadc700e000001",
+    "title": "Home Office Notices",
+    "description": "Notices/News/Events for the HO",
+    "url": "https://share.wal-mart.com/sites/HON/12%2005%2013%20all%20docs/Forms/AllItems.aspx",
+    "tags": [
+      "connect",
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528a2b1b44797dd009000003",
+    "title": "IDP: Individual Development Plan",
+    "description": "",
+    "url": "https://performancemanager.successfactors.com/sf/devplan?bplte_company=walmart&_s.crb=tMggEjtuGRsFps5%2fh%2fV%2bvnLXR7M%3d",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://performancemanager.successfactors.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528b9de856f43c5406000003",
+    "title": "IDP Guid",
+    "description": "Individual development plan guide to each of the topics",
+    "url": "http://wireportal.wal-mart.com/wps/myportal/KnowledgeCenter?WCM_GLOBAL_CONTEXT=/wps/wcm/myconnect/Wire_US_Active/Portal_Content/Knowledge_Center/People_Support/Training_and_Education/Career_Development/Individual_Development/Individual_Development_Plan_(IDP)_Form/Prof_Indiv_Contrib_Develop_Guide/en_us_09010aff8144c6c7_a_prof_indiv_contrib_develop_guide",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528b84c993045be80d000001",
+    "title": "ISD Associate Photos - Pictures",
+    "description": "",
+    "url": "https://share.wal-mart.com/sites/isdphotos/isd_associate_photos/Forms/Pictures.aspx",
+    "tags": [
+      "work",
+      "connect"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0ebac91ce1102f000006",
+    "title": "ITRPCOHORT3 - Home",
+    "description": "",
+    "url": "https://share.wal-mart.com/sites/ITRPCOHORT3/SitePages/Home.aspx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d284553a26d380d000007",
+    "title": "jQuery Fundamentals",
+    "description": "learn jQuery",
+    "url": "http://jqfundamentals.com/chapter/javascript-basics",
+    "tags": [
+      "learning",
+      "book",
+      "javascript"
+    ],
+    "lock": false,
+    "favicon": "http://jqfundamentals.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "528bb94e56f43c5406000004",
+    "title": "LosTechies | Se Habla Code",
+    "description": "Backbone resources and javascript techniques",
+    "url": "http://lostechies.com/",
+    "tags": [
+      "javascript",
+      "libraries",
+      "resources",
+      "blogs"
+    ],
+    "lock": false,
+    "favicon": "http://lostechies.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52823c9076d6d4d402000008",
+    "title": "Microsoft Live",
+    "description": "use for skydrive, microsoft web apps, email",
+    "url": "http://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1251729776&rver=5.5.4177.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1033&id=64855&mkt=en-US",
+    "tags": [
+      "email",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "http://auth.gfx.ms/15.000.22288.00/favicon.ico?v=2",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529c92558fe515f81c000005",
+    "title": "Outlook FAQs - All Items",
+    "description": "help with many outlook features",
+    "url": "https://share.wal-mart.com/Sites/AssociateExperience/Outlook/Lists/OWA%20FAQs/AllItems.aspx",
+    "tags": [
+      "work",
+      "connect",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a886c06bdadc700e000003",
+    "title": "Outlook Web Walmart",
+    "description": "Online Email",
+    "url": "https://webmail.wal-mart.com/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.wal-mart.com%2fowa%2f",
+    "tags": [
+      "email",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://webmail.wal-mart.com/owa/14.2.318.2/themes/resources/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d0ed2c91ce1102f000007",
+    "title": "POSS and GO Info - All Documents",
+    "description": "NSIRT Team Connect Site",
+    "url": "https://share.wal-mart.com/Sites/FSSPLAN/Site%20Possession%20and%20GO%20information/Forms/AllItems.aspx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52828f30e6f35e9015000005",
+    "title": "Progressive",
+    "description": "Car Insurance",
+    "url": "https://onlineservice4.progressive.com/SelfService.Web/SelfService.aspx?Page=Login.AuthenticateUser&QueryStringSetKey=SessionGateway&OfferingID=SelfService&SessionStart=TRUE#",
+    "tags": [
+      "Insurance",
+      "Subscription"
+    ],
+    "lock": false,
+    "favicon": "https://onlineservice4.progressive.com/SelfService.Web/assets/images/progressive/favicon2.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52d5b08c7f7e036c09000002",
+    "title": "Service Catalog Suite",
+    "description": "some older service request can be found here",
+    "url": "https://servicecatalog.homeoffice.wal-mart.com/sc/default.asp",
+    "tags": [
+      "tool",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52dd5a902ac3c30c11000001",
+    "title": "Service request",
+    "description": "like remedy request service requests",
+    "url": "https://share.wal-mart.com/Sites/SecAccessSup/SecAccSupWI/SitePages/Windows.aspx",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "5284ecf6e6f35e9015000012",
+    "title": "Skill Port - Wal-Mart Learning Center  My Plan",
+    "description": "",
+    "url": "https://walmart.skillport.com/skillportfe/main.action?content=myplan",
+    "tags": [
+      "tutorial",
+      "learning",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "5298e5df8fe515f81c000004",
+    "title": "Store Sales",
+    "description": "see the top items that sale by store and department",
+    "url": "http://honts2005.homeoffice.wal-mart.com/div1_topitems/applications/topitems.aspx",
+    "tags": [
+      "wire",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a0e60b6ea29d3415000004",
+    "title": "Store Logins",
+    "description": "How can I access store test and production systems to test and troubleshoot my applications (jump boxes)? - Sundown",
+    "url": "https://sundown.wal-mart.com/questions/1770/how-can-i-access-store-test-and-production-systems-to-test-and-troubleshoot-my-applications-jump-boxes",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "https://sundown.wal-mart.com/upfiles/favicon.ico?v=2",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529e1bd1e56371301e000003",
+    "title": "Telecom Sharepoint",
+    "description": "NSIRT team uses this for t1 and satellite availability",
+    "url": "https://share.wal-mart.com/sites/ISDRollout/CSAT/Shared Documents/Store Planning/Master 2013 New Relo 10-23-2013.xlsx",
+    "tags": [
+      "connect",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a0d9376ea29d3415000002",
+    "title": "Telecom sharepoint",
+    "description": "store t1 power and satellite status",
+    "url": "https://share.wal-mart.com/sites/ISDRollout/CSAT/Shared%20Documents/Forms/AllItems.aspx",
+    "tags": [
+      "work",
+      "connect"
+    ],
+    "lock": false,
+    "favicon": "https://share.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d121cc91ce1102f00000d",
+    "title": "Time Off Request",
+    "description": "use for requesting time off in the IT Rotational Program",
+    "url": "https://engage.wal-mart.com/Sites/ITRP/management/Lists/TimeOffRequest/AllItems.aspx",
+    "tags": [
+      "work",
+      "tool",
+      "connect"
+    ],
+    "lock": false,
+    "favicon": "https://engage.wal-mart.com/_layouts/images/WalmartConnect.Global/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d27c953a26d380d000005",
+    "title": "underscore.js",
+    "description": "line by line documentation",
+    "url": "http://documentcloud.github.io/underscore/docs/underscore.html",
+    "tags": [
+      "javascript",
+      "resources",
+      "libraries"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529f9bd46ea29d3415000001",
+    "title": "VLOOKUP | INDEX MATCH",
+    "description": "Excel Alternative to vlookup that allows any column matching",
+    "url": "http://www.mrexcel.com/articles/excel-vlookup-index-match.php",
+    "tags": [
+      "excel",
+      "tutorial"
+    ],
+    "lock": false,
+    "favicon": "http://www.mrexcel.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "527d1135c91ce1102f00000a",
+    "title": "Walmart Wire",
+    "description": "IE only",
+    "url": "http://wireportal.wal-mart.com/wps/myportal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjd78QRzeLAN8gFxdTAyMn5-Bg_2AXYwMTA6B8JG55AwMCuiP1o8wR8l6WwSZAeccAX0vHUEMDd6DpZZmp5foh-pFu-n4e-bmp-gW5EVVuFo6KADsGB98!/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfMkdOVEFGOFBNUkRENTAyQkNTU09TRDMwMDI!/",
+    "tags": [
+      "resources",
+      "work",
+      "wire"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529de93ee56371301e000001",
+    "title": "Walmart Travel",
+    "description": "Book flights and hotels through walmart system",
+    "url": "https://wx1.getthere.net/login.act;jsessionid=3C65A33812F793795EAE21015AB84404?sid=782&",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://wx1.getthere.net/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529de9b3e56371301e000002",
+    "title": "Walmart Travel Services",
+    "description": "Reimbursements for travel and expense logging",
+    "url": "https://walmart.servicengine.com/Home/login.aspx",
+    "tags": [
+      "work",
+      "tool"
+    ],
+    "lock": false,
+    "favicon": "https://walmart.servicengine.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52a0deb86ea29d3415000003",
+    "title": "Walmart Stock",
+    "description": "Associate Stock Purchase Program login",
+    "url": "https://www-us.computershare.com/Employee/Login/CompanyIntroduction.aspx?issuerid=scuswmt&cc=us&LandingPage=Portfolio&holdergroupid=aspp&defaultclassid=es2",
+    "tags": [
+      "work",
+      "banking"
+    ],
+    "lock": false,
+    "favicon": "https://www-us.computershare.com/favicon.ico",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "529353cf8fe515f81c000002",
+    "title": "Walton Fitness Center",
+    "description": "Schedules, classes, and information",
+    "url": "http://wireportal.wal-mart.com/wps/myportal/KnowledgeCenter?WCM_GLOBAL_CONTEXT=/wps/wcm/myconnect/Wire_US_Active/Portal_Content/Me_At_Wal-Mart/Self-service_Center/My_Health/Healthy_Living/en_US_09010aff807c7be6_A_wlfc_homepage.htm",
+    "tags": [
+      "wire",
+      "resources",
+      "work"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  },
+  {
+    "_id": "52c6e9093d96a68422000004",
+    "title": "What is a 9-box grid?",
+    "description": "Evaluations 9-box grid",
+    "url": "http://www.shrm.org/templatestools/hrqa/pages/whatsa9boxgridandhowcananhrdepartmentuseit.aspx",
+    "tags": [
+      "work",
+      "resources"
+    ],
+    "lock": false,
+    "favicon": "/images/bookmark-icon-lg.png",
+    "count": 0,
+    "created": "2014-01-21T22:30:58.294Z"
+  }
+]

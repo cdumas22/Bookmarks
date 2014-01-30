@@ -1,0 +1,25 @@
+﻿<ul class="breadcrumb">
+  <li><a href="#bookmarks">Bookmarks</a> <span class="divider">/</span></li>
+  <li class="active"><%=title%></li>
+</ul>
+<% if(lock === true || lock === "true") {%>
+<div class="lock pull-right btn btn-danger">LOCKED</div>
+<% } %>
+<div class="title">
+    <p>TITLE:</p><input class="edit" type="text" name="title" value="<%=title%>" placeholder="Title"/>
+</div>
+<div>
+    <p>DESCRIPTION:</p> <textarea class="edit" name="description"  placeholder="Description" style="height:100px;"><%=description%></textarea>
+</div>
+<div>
+    <p>URL:</p> <input class="edit" type="text" name="url" value="<%=url%>" placeholder="URL"/>
+</div>
+<div>
+    <p>TAGS:</p> <input class="edit" type="text" name="tags" value="<%=tags%>" placeholder="Tags"/>
+</div>
+<div class="edit form-actions">
+    <button class="save btn btn-primary" type="submit">Save</button>
+    <a href="#bookmarks" class="cancel btn btn-default">cancel</a>
+</div>
+
+

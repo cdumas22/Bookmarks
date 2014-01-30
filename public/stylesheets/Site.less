@@ -1,0 +1,231 @@
+﻿@boxshadowcolor: rgba(91, 192, 221,0.5);
+@lightblue: #5bc0de;
+@offwhite: #f5f5f5;
+body * {
+    scrollbar-face-color: @lightblue;
+    scrollbar-base-color: #fff;
+    scrollbar-arrow-color: #fff;
+    scrollbar-track-color: @offwhite;
+    scrollbar-shadow-color: #fff;
+    scrollbar-highlight-color: #29a7dd;
+    scrollbar-3dlight-color: @lightblue;
+    scrollbar-darkshadow-color: #fff;
+}
+body *::-webkit-scrollbar {
+    width: 24px;
+    height: 24px;
+}
+body *::-webkit-scrollbar-thumb {
+    border-radius: 12px;
+    background-clip: padding-box;
+    background-image: -webkit-linear-gradient(top, @lightblue 0, @lightblue 100%);
+    border: 8px solid transparent;
+    min-height: 50px;
+} 
+body *::-webkit-scrollbar-track { 
+    border: 6px solid transparent;
+    border-radius: 12px;  
+    box-shadow: inset 0 0 6px #FFF,inset 0 0 0 7px @offwhite;
+}
+input,textarea {
+            width:30%;
+            min-width:150px;
+            padding:5px;
+            margin:5px;
+        }
+.bookmark-view {
+    p{
+        width:100px;
+        text-align:right;
+        font-weight:bold;
+        float:left;
+        margin:12px 0;
+        position:relative;
+    }
+}
+body.container {
+    width:100%;
+    background: url(/images/white_bed_sheet.png) repeat;
+}
+.search-icon {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    position: relative;
+    top: -1px;
+    cursor: default;
+}
+#TAGS {
+    padding:0;
+    padding-top:15px;
+    border-right:solid 1px gray;
+    position:fixed;
+    .search{
+        padding:5px;
+        input {
+            display:inline-block;
+            width:auto;
+            padding:1px;
+            margin:0;
+        }
+    }
+    
+    ul {
+        padding:0;
+        margin:0;
+        list-style:none;
+        overflow-y:auto;
+        li {
+            border-bottom:solid 1px gray;
+            padding:0;
+            margin:0;
+            .tag:first-letter {
+                text-transform:uppercase;
+            }
+            
+        }
+    }
+}
+#APP {
+    margin-left: 25%;
+    .controls {
+        top: 0;
+        position: fixed;
+        padding-top: 15px;
+        background: url(/images/white_bed_sheet.png) repeat;
+        z-index: 1000;
+        padding-bottom: 10px;
+
+        input {
+            margin: 0;
+        }
+    }
+
+    div.models {
+        -webkit-column-count: 4;
+        -webkit-column-gap: 10px;
+        -webkit-column-fill: auto;
+        -moz-column-count: 4;
+        -moz-column-gap: 10px;
+        -moz-column-fill: auto;
+        column-count: 4;
+        column-gap: 15px;
+        column-fill: auto;
+        margin-top: 65px;
+        
+        > div {
+            -webkit-column-break-inside: avoid;
+            -moz-column-break-inside: avoid;
+            column-break-inside: avoid;
+            display: inline-block;
+            font-size: 0.8em;
+            padding: 5px;
+            margin: 5px 0;
+            position: relative;
+            background: white;
+            background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+            border: 2px solid #FAFAFA;
+            box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+            width: 100%;
+            -webkit-transition: all .2s ease;
+            -moz-transition: all .2s ease;
+            -o-transition: all .2s ease;
+            transition: all .2s ease;
+            
+            img {
+                width: 30px;
+                height: 30px;
+                float: left;
+                margin: 0 10px 2px 0;
+            }
+
+            .options {
+                float: right;
+            }
+            .title {
+                font-size:15px;
+                font-weight:bold;
+            }
+            .tags {
+                clear: both;
+      
+                hr {
+                    margin: 5px;
+                }
+            }
+
+            &:hover {
+                box-shadow: 0px 0px 10px rgba(34, 25, 25, 1);
+                .options, .tags {
+                    /*display:block;*/
+                }
+            }
+        }
+    }
+}
+
+.field {
+    display:block;
+}
+
+span.tag {
+    &.list {
+        background: #00b7ea; /* Old browsers */
+        background: -moz-linear-gradient(top, rgba(0, 183, 234,0.7) 0%, rgba(0, 158, 195,0.7) 100%); /* FF3.6+ */
+        background: -webkit-linear-gradient(top, rgba(0, 183, 234,0.7) 0%,rgba(0, 158, 195,0.7) 100%); /* Chrome10+,Safari5.1+ */
+        background: -ms-linear-gradient(top, rgba(0, 183, 234,0.7) 0%,rgba(0, 158, 195,0.7) 100%); /* IE10+ */
+        background: linear-gradient(to bottom, rgba(0, 183, 234,0.7) 0%,rgba(0, 158, 195,0.7) 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
+    }
+    padding: 0px 10px;
+    color: white;
+    display: inline-block;
+}
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; cursor: default; overflow: auto; -webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); -moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64); }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+@media (min-width: 300px) {
+    #APP div.models {
+        -webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+    }
+}
+@media (min-width: 400px) {
+    #APP div.models {
+        -webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+    }
+}
+@media (min-width: 800px) {
+    #APP div.models {
+        -webkit-column-count: 3;
+		-moz-column-count: 3;
+		column-count: 3;
+    }
+}
+
+@media (min-width: 1000px) {
+    #APP div.models {
+        -webkit-column-count: 4;
+		-moz-column-count: 4;
+		column-count: 4;
+    }
+}
+
+@media (min-width: 1400px) {
+    #APP div.models {
+        -webkit-column-count: 5;
+		-moz-column-count: 5;
+		column-count: 5;
+    }
+}
+.no-csscolumns {
+    #APP div.models > div{
+        width: 222px;
+        height: 132px;
+        float: left;
+        margin:5px;
+    }
+}

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="http://localhost:3001/stylesheets/bootstrap.min.css" rel="stylesheet" />
+    <link href="http://localhost:3001/stylesheets/Site.min.css" rel="stylesheet" />
+    <link href="Styles.min.css" rel="stylesheet" />
+    <script src="jquery-1.10.2.min.js"></script>
+    <script src="jquery.autocomplete.min.js"></script>
+    <script src="underscore-min.js"></script>
+</head>
+<body>
+    <div style="padding:20px;">
+        <h1>Add Bookmark</h1>
+        <div class="title">
+            <input type="text" name="title" value="" placeholder="Title"/>
+        </div>
+        <div>
+            <textarea style="height:50px;" name="description" value="" placeholder="Description"></textarea>
+        </div>
+        <div>
+            <input type="text" name="url" value="" placeholder="URL"/>
+        </div>
+        <div>
+            <input type="text" name="tags" value="" placeholder="Tags (comma seperated)"/>
+            <br />
+            <br />
+        </div>
+        <div class="form-actions">
+            <button class="save btn btn-primary" type="submit">Save</button>
+            <button class="cancel btn" type="button">cancel</button>
+            <a href="http://localhost:3001" style="float:right;">View Bookmarks</a>
+        </div>
+    </div>
+    <script src="plugin.js"></script>
+</body>
+</html>

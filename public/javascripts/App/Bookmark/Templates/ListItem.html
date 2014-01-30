@@ -1,0 +1,16 @@
+﻿<a href="<%= url %>" class="link" target="_blank"><img src="<%= favicon %>" /></a>
+<a href="<%= url %>" class="link title" target="_blank"><%= title %></a>
+<br />
+<div class="tags">
+    <div><%= description %></div>
+    <hr />
+    <% _.each(tags, function(i) { %>  <span class="btn-mini tag list"><%= i %></span> <% }); %>
+</div>
+<div class="options">
+    <a href="#bookmarks/<%=_id%>" class="btn-xsm btn-link"><i class="icon-pencil"></i> Edit</a>
+    <% if(lock === true || lock === "true") {%>
+    <a class="locked btn-xsm btn-link" title="unlock"><i class="icon-lock icon-white"></i> LOCKED</a>
+    <%} else {%>
+    <a class="remove btn-xsm btn-link"><i class="icon-trash icon-white"></i> Delete</a>
+    <%}%> 
+</div>
