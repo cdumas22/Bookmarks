@@ -39,7 +39,7 @@ if ($.browser.chrome) {
 	       }
 	    );
 }
-if ($.browser.safari) {
+if ($.browser.safari) {  //sadf
 	safari.application.addEventListener("popover", function(){
 		$('input[name=title]').val(safari.application.activeBrowserWindow.activeTab.title);
 		$('input[name=url]').val(safari.application.activeBrowserWindow.activeTab.url);
