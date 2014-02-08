@@ -1,0 +1,63 @@
+<!--//-
+	For development and deploying it is best to use require js
+	once you have built the js you can switch to use the curl code, this will save an extra few kb 
+	on requests
+
+doctype html
+html(lang="en")
+	head
+		title Bookmark Manager
+		link(rel="shortcut icon", href="/images/bookmark-icon-lg.png?v=2")
+		link(rel="stylesheet", href="/stylesheets/bootstrap.min.css")
+		link(rel="stylesheet", href="/stylesheets/site.css")
+		script(src="/javascripts/Libraries/modernizr.js")
+		//-
+		script(data-main="/javascripts/App/Main", src="/javascripts/Libraries/require.js")
+		//-
+			script
+				var curl = {
+					baseUrl: '/javascripts/App-built',
+					apiName: 'require',
+					paths: {
+						css: "../libraries/css",
+						text: "../libraries/text"
+					}
+				};
+			script(src="/javascripts/Libraries/curl.min.js")
+			script
+				require(['/javascripts/App-built/Main']);
+	body.container
+		div.row
+			div#TAGS.col-xs-3
+			div#APP.col-xs-9
+-->			
+			
+			
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Bookmark Manager</title>
+		<link rel="shortcut icon" href="/images/bookmark-icon-lg.png?v=2"/>
+		<link rel="stylesheet" href="/stylesheets/bootstrap.min.css"/>
+		<link rel="stylesheet" href="/stylesheets/site.css"/>
+		<script src="/javascripts/Libraries/modernizr.js" type="text/javascript"></script>
+		<script data-main="/javascripts/App/Main" src="/javascripts/Libraries/require.js"></script>
+	</head>
+	<body>
+	<div>
+		<% if (!user) { %>
+			<p>
+			<a href="/">Home</a> | 
+			<a href="/login">Log In</a>
+			</p>
+		<% } else { %>
+			<p>
+			<a href="/">Home</a> | 
+			<a href="/account">Account</a> | 
+			<a href="/logout">Log Out</a>
+			</p>
+		<% } %>
+		</div>
+		<%- body %>
+	</body>
+</html>

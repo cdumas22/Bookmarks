@@ -4,9 +4,8 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Express', user: req.user });
 };
-
 exports.sockets = function(req, res) {
 	res.render('sockets', { title: 'Express'});
 };

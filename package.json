@@ -1,5 +1,5 @@
 {
-  "name": "Show-Manager",
+  "name": "BookmarkManager",
   "version": "1.0.1",
   "author": "Cameron Dumas",
   "private": true,
@@ -8,11 +8,13 @@
   },
   "dependencies": {
     "express": "3.2.6",
-    "jade": "*",
+    "ejs": "*",
+	"ejs-locals": "*",
 	"mongodb": "*",
     "socket.io": "*",
     "express-resource": "*",
 	"request": "*",
-	"passport": "*"
+	"passport": "*",
+	"passport-linkedin": "*"
   }
 }
