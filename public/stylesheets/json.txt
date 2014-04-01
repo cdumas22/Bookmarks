@@ -1,0 +1,5 @@
+[{"EPOComputerProperties.IPV6" : "22.52.208.180"},
+{"EPOComputerProperties.IPV6" : "55.192.104.180"},
+{"EPOComputerProperties.IPV6" : "10.223.174.180"},
+{"EPOComputerProperties.IPV6" : "10.132.4.180"},
+{"EPOComputerProperties.IPV6" : "22.6.32.180"}]

@@ -36,6 +36,22 @@ db.open(function (err, db) {
         });
     }
 });
+
+
+//var fs = require("fs");
+//var file = "./bookmarks.db";
+//var exists = fs.existsSync(file);
+
+//if (!exists) {
+//    console.log("Creating DB file.");
+//    fs.openSync(file, "w");
+//}
+
+//var sqlite3 = require("sqlite3").verbose();
+//db = new sqlite3.Database(file);
+
+
+
 //---------------END DATABASE-----------------------
 //---------------APP SERVER-----------------------
 // all environments
