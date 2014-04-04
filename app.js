@@ -9,10 +9,13 @@ var express = require('express'),
     path = require('path'),
     app = express(),
     server = require('http').createServer(app),
-    mongo = require('mongodb'),
-    Server = mongo.Server,
-    Db = mongo.Db,
-    mongoserver = new Server('localhost', 27017, { auto_reconnect: true });
+	datastore = require('nedb');
+    //mongo = require('tingodb')({cacheSize:0}),
+	mongo = require('mongodb');
+    //Server = mongo.Server,
+    //Db = mongo.Db,
+    //mongoserver = new Server('localhost', 27017, { auto_reconnect: true });
+	db = new datastore({filename: 'db/bookmarks.db', autoload:true});
 //--------------SOCKET.IO----------------------
 //global
 io = require('socket.io').listen(server);
@@ -25,17 +28,18 @@ io.sockets.on('connection', function(soc) {
 //---------------DATABASE-----------------------
 //global
 BSON = mongo.BSONPure;
-db = new Db('bookmarksdb', mongoserver, { safe: true});
+//db = new mongo.Db('c:/code/playground/bookmarks/db', {});
+//db = new Db('bookmarksdb', mongoserver, { safe: true});
 
-db.open(function (err, db) {
-    if (!err) {
-        db.collection('bookmarks', { strict: true }, function (err, collection) {
-            if (err) {
-                console.log("The 'bookmarks' collection doesn't exist.");
-            }
-        });
-    }
-});
+// db.open(function (err, db) {
+    // if (!err) {
+        // db.collection('bookmarks', { strict: true }, function (err, collection) {
+            // if (err) {
+                // console.log("The 'bookmarks' collection doesn't exist.");
+            // }
+        // });
+    // }
+// });
 
 
 //var fs = require("fs");

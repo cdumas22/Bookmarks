@@ -4,7 +4,7 @@ $.browser.safari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(n
 
 var tags = [];
 var favicon = "";
-var close = function(){
+var closeW = function(){
 	if ($.browser.chrome){
 		window.close();
 	}
@@ -71,7 +71,7 @@ $("body").on("click", ".save", function (e) {
             }
 
             $.post("http://localhost:3001/bookmarks", obj, function () {});
-            setTimeout(close, 300);
+            setTimeout(closeW, 300);
       
 });
-$("body").on("click", ".cancel", close);
+$("body").on("click", ".cancel", closeW);
