@@ -17,11 +17,14 @@
             this.$el.html(this.template());
             this.addAll(this.collection);
             var _this = this;
-
+            
             $(window).keypress(function () {
                 if (!$("#TAGS input[name=search]").is(":focus")) {
                     $(".bookmark-list input[name=search]").focus();
                 }
+            });
+            $("body > div").splitter({
+                sizeLeft:250
             });
             return this;
         },

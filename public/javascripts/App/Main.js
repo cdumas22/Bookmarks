@@ -12,7 +12,8 @@ requirejs.config({
         radio: '../libraries/Radio',
         json2: '../libraries/json2',
         waterfall: '../libraries/jquery.waterfall',
-        autocomplete: '../libraries/jquery.autocomplete.min'
+        autocomplete: '../libraries/jquery.autocomplete.min',
+		splitter: '../libraries/splitter'
     },
     shim: {
         underscore: {
@@ -21,6 +22,9 @@ requirejs.config({
         backbone: {
             deps: ['underscore', 'jquery', 'json2'],
             exports: 'Backbone'
+        },
+        splitter: {
+            deps: ['jquery']
         }
     }
 });

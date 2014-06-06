@@ -2,7 +2,8 @@
     "backbone",
     "Bookmark/Models/Bookmark",
     "Controller",
-    "Tag/Views/List"
+    "Tag/Views/List",
+	"splitter"
 ], function (Backbone, BookmarkModel, Controller, Tags) {
     return Backbone.Router.extend({
         initialize: function (options) {
@@ -37,6 +38,7 @@
             });
 
             this.render("Bookmark/Views/List", { collection: Controller.GetBookmarks() });
+			
         },
         viewBookmark: function (id) {
             this.render("Bookmark/Views/Item", { model: Controller.GetBookmark(id)});

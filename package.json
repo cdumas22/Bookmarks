@@ -13,6 +13,7 @@
     "express-resource": "*",
     "request": "*",
     "passport": "*",
-    "nedb": "~0.10.5"
+    "nedb": "~0.10.5",
+	"mongodb": "*"
   }
 }

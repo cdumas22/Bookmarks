@@ -43,6 +43,14 @@ body.container {
   width: 100%;
   background: url(/images/white_bed_sheet.png) repeat;
 }
+body.container > div {
+  width: 100%;
+}
+.vsplitbar {
+  width: 5px;
+  background: #cab;
+  position: fixed !important;
+}
 .search-icon {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
@@ -51,10 +59,8 @@ body.container {
   cursor: default;
 }
 #TAGS {
-  padding: 0;
-  padding-top: 15px;
-  border-right: solid 1px gray;
-  position: fixed;
+  border-right: solid 2px gray;
+  position: fixed !important;
 }
 #TAGS .search {
   padding: 5px;
@@ -78,9 +84,6 @@ body.container {
 }
 #TAGS ul li .tag:first-letter {
   text-transform: uppercase;
-}
-#APP {
-  margin-left: 25%;
 }
 #APP .controls {
   top: 0;

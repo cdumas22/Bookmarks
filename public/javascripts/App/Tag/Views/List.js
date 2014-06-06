@@ -17,8 +17,13 @@
             this.tags.sort();
             this.addAll(this.tags);
             var _this = this;
+
+            $("body > div").height((parseInt($(window).innerHeight())) + "px");
+            //$("body > div").splitter();
             $(window).resize(function () {
                 _this.$el.find('.models').height((parseInt($(window).innerHeight()) - 60) + "px");
+                $("body > div").height((parseInt($(window).innerHeight())) + "px");
+                $(".vsplitbar").height((parseInt($(window).innerHeight())) + "px");
             });
             return this;
         },
